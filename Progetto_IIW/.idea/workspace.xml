@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4848422b-8789-4f1c-9e1f-5583d6e59b36" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno-multichar" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="iiwnostro1" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="0-server" />
+  </component>
+  <component name="ProjectId" id="1PgTFWiPaVBZW4WSy8EMl3OSUM6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="127.0.0.1 2" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4848422b-8789-4f1c-9e1f-5583d6e59b36" name="Default Changelist" comment="" />
+      <created>1555592061541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555592061541</updated>
+      <workItem from="1555592064853" duration="7934000" />
+      <workItem from="1556877716517" duration="2418000" />
+      <workItem from="1556880179474" duration="4631000" />
+      <workItem from="1557082831660" duration="1044000" />
+      <workItem from="1557127300789" duration="7344000" />
+      <workItem from="1557216453877" duration="11060000" />
+      <workItem from="1557393175056" duration="5835000" />
+      <workItem from="1557404119988" duration="5232000" />
+      <workItem from="1557429129340" duration="3742000" />
+      <workItem from="1558595324240" duration="19315000" />
+      <workItem from="1559210311962" duration="3987000" />
+      <workItem from="1559219686576" duration="3188000" />
+      <workItem from="1559306327534" duration="5688000" />
+      <workItem from="1559575694796" duration="2048000" />
+      <workItem from="1562145500093" duration="11409000" />
+      <workItem from="1562162180725" duration="2529000" />
+      <workItem from="1562164948565" duration="2058000" />
+      <workItem from="1562230298699" duration="1841000" />
+      <workItem from="1562256413718" duration="2300000" />
+      <workItem from="1562314233501" duration="9815000" />
+      <workItem from="1562343896405" duration="3545000" />
+      <workItem from="1562399121827" duration="6654000" />
+      <workItem from="1562406695139" duration="5411000" />
+      <workItem from="1562426723671" duration="5043000" />
+      <workItem from="1562488159949" duration="4275000" />
+      <workItem from="1562492596744" duration="733000" />
+      <workItem from="1562493495515" duration="2427000" />
+      <workItem from="1562504101750" duration="12899000" />
+      <workItem from="1562575457930" duration="6527000" />
+      <workItem from="1562590141237" duration="8267000" />
+      <workItem from="1562599464152" duration="958000" />
+      <workItem from="1562662775358" duration="22203000" />
+      <workItem from="1562713288234" duration="1136000" />
+      <workItem from="1562746600132" duration="23730000" />
+      <workItem from="1562836590177" duration="3141000" />
+      <workItem from="1562840505590" duration="1165000" />
+      <workItem from="1562847626846" duration="14303000" />
+      <workItem from="1562919808645" duration="9081000" />
+      <workItem from="1562934517886" duration="15747000" />
+      <workItem from="1563025536487" duration="13313000" />
+      <workItem from="1563083642700" duration="476000" />
+      <workItem from="1563097683947" duration="1140000" />
+      <workItem from="1563107552645" duration="4124000" />
+      <workItem from="1563118193709" duration="257000" />
+      <workItem from="1563119552621" duration="6263000" />
+      <workItem from="1563179930194" duration="5518000" />
+      <workItem from="1563193549310" duration="14419000" />
+      <workItem from="1563224152076" duration="411000" />
+      <workItem from="1563266789582" duration="21418000" />
+      <workItem from="1563437499439" duration="2513000" />
+      <workItem from="1563441634204" duration="4862000" />
+      <workItem from="1563527154039" duration="2944000" />
+      <workItem from="1563531582714" duration="4692000" />
+      <workItem from="1563788115185" duration="71000" />
+      <workItem from="1563788283502" duration="3467000" />
+      <workItem from="1563800198501" duration="1793000" />
+      <workItem from="1564006045623" duration="491000" />
+      <workItem from="1567676710230" duration="295000" />
+      <workItem from="1567678637080" duration="1852000" />
+      <workItem from="1568193372757" duration="1530000" />
+      <workItem from="1568197172221" duration="1375000" />
+      <workItem from="1568199117668" duration="7270000" />
+      <workItem from="1568289771684" duration="11093000" />
+      <workItem from="1568303658010" duration="1966000" />
+      <workItem from="1568472036694" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
